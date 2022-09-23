@@ -1,4 +1,4 @@
-### Next.js + Tailwind CSS demo
+### Next.js + Tailwind CSS + Sanity demo
 ```
 npm install
 npm run dev
